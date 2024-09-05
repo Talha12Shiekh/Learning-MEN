@@ -1,0 +1,25 @@
+{
+  "name": "learning_node",
+  "version": "1.0.0",
+  "description": "Learning node.js Mongo DB and Express.js from Coder dost ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talha12Shiekh/Learning-MEN.git"
+  },
+  "keywords": [
+    "Node.js",
+    "express",
+    "Mongo",
+    "DB"
+  ],
+  "author": "Talha Khurram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talha12Shiekh/Learning-MEN/issues"
+  },
+  "homepage": "https://github.com/Talha12Shiekh/Learning-MEN#readme"
+}
