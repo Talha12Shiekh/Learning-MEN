@@ -1,10 +1,8 @@
-const fs = require("fs");
+const http = require("http");
 
-
-// const text = fs.readFileSync("demo.txt","utf-8")
-
-fs.readFile("demo.txt","utf-8",(err,txt) => {
-console.log(txt);
+const server = http.createServer((req,res) => {
+    console.log("Server started");
+    res.end("<h1>Hello world</h1>")
 })
 
-// console.log(text);
+server.listen(8080)
