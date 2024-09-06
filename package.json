@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Talha12Shiekh/Learning-MEN/issues"
   },
-  "homepage": "https://github.com/Talha12Shiekh/Learning-MEN#readme"
+  "homepage": "https://github.com/Talha12Shiekh/Learning-MEN#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
